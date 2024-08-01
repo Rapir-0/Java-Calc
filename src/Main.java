@@ -1,3 +1,4 @@
+// JAVA CALCULATOR TEST TASK
 import java.util.Scanner;
 
 class Main {
